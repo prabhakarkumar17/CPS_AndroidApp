@@ -79,6 +79,16 @@
                     android:background="@drawable/notregisterbtn_round"
                     android:onClick="registerActivity" />
 
+                <Button
+                    android:id="@+id/btn_subject"
+                    android:layout_height="50dp"
+                    android:layout_width="300dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_gravity="center_horizontal"
+                    android:text="SUBJECT"
+                    android:background="@drawable/notregisterbtn_round"
+                    android:onClick="subjectActivity" />
+
             </LinearLayout>
 
         </ScrollView>
